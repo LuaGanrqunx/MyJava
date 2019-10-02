@@ -1,5 +1,5 @@
 package my_java.student.j002;
 
-public class Dog {
+public class Dog extends Animal{
 
 }
